@@ -13,3 +13,5 @@ The kernels for all cells/types follow the same broad three step process:
 ## Performance Model
 The performance model takes in model parameters, permutes the parameters to build the configuration space, prunes based on configuration feasibility, and then ranks based on the four-part performance model.
 
+## Acknowledgement
+This work was funded by National Science Foundation CNS-1618912 and CNS-1750760 (CAREER Award).
